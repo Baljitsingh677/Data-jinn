@@ -1,2 +1,0 @@
-# Data-jinn
-Data-jinn 
